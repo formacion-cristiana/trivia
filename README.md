@@ -1,6 +1,6 @@
 # formacion-cristiana.github.io/trivia
 
-Preguntas sobre 
+Preguntas sobre la Historia de la Salvación, la Historia de la Iglesia, el Cristianismo Hoy, utilizando un lenguaje Bíblico, simbólico y etimológico.
 
 ## React + Vite
 
