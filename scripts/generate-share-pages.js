@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { quizSets } from "../src/data/quizSets.js";
+import { quizSets } from "../config/quizSets.js";
 // URL única de toda la aplicación
 import { SITE_BASE, SITE_URL } from "../config/siteConfig.js";
 
