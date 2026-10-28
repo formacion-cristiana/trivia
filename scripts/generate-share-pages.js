@@ -1,3 +1,4 @@
+//script/generate-share-pages.js
 import fs from "fs";
 import path from "path";
 import { quizSets } from "../config/quizSets.js";
@@ -90,13 +91,15 @@ for (const quizSet of quizSets) {
 
     const pageTitle = `${title} — ${siteTitle}`;
 
+
     // Página que WhatsApp visita
     const pageUrl =
       `${SITE_URL}/share/${quizId}/`;
 
     // Página real del quiz dentro de React
     const quizUrl =
-      `${SITE_BASE}/#/quizzes/${quizId}`;
+      `${SITE_URL}/quizzes/${quizId}`;
+
 
     const html = `<!doctype html>
 <html lang="es">
