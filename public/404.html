@@ -1,7 +1,26 @@
-<!DOCTYPE html>
-<html>
+
+<!doctype html>
+<html lang="es">
   <head>
-    <meta http-equiv="refresh" content="0; URL=./index.html" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirigiendo...</title>
+    <script>
+      const base = "/trivia/";
+      const pathname = window.location.pathname;
+      const relativePath = pathname.startsWith(base)
+        ? pathname.slice(base.length)
+        : "";
+
+      const originalUrl =
+        "/" + relativePath + window.location.search + window.location.hash;
+
+      window.location.replace(
+        base + "?p=" + encodeURIComponent(originalUrl)
+      );
+    </script>
   </head>
-  <body></body>
+  <body>
+    Redirigiendo...
+  </body>
 </html>
