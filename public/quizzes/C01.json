@@ -9,16 +9,16 @@
     "image": "images/12tribus.png",    
     "questionText": "Ordenar temporalmente los primeros patriarcas (Mt 1,2):",
     "correctAnswer": ["Abraham", "Isaac", "Jacob (Israel)"],
-    "tip": "Mt 1,2 `Abraham fue padre de Isaac; Isaac, padre de Jacob; Jacob, padre de Judá y de sus hermanos.`\n\n🔥 A partír de Pentecostés (nacimiento de la Iglesia), los hijos de Abraham ya no se transmiten por la carne sino por el Espíritu Santo. 🌬️",
-    "reflect": "* 🤔 ¿Recordás los nombres de tus bisabuelos?\n* 👵 ¿Que sabés de ellos?\n* 🗣️ Hablá o preguntá sobre ellos."
+    "tip": "Mt 1,2 `Abraham fue padre de Isaac; Isaac, padre de Jacob; Jacob, padre de Judá y de sus hermanos.`\n\n🔥 A partír de Pentecostés (nacimiento de la Iglesia), los hijos de Abraham ya no se transmiten por la carne sino por el Espíritu Santo 🌬️; i.e. los cristianos somos descendientes espirituales de Abraham.",
+    "reflect": "Es claro que recibimos una herencia mundana (dinero o deudas) y biológica por parte de nuestros ancestros. También hay una herencia moral y espiritual:\n\nEx 20,5 `«soy un Dios celoso, que castigo la culpa de los padres en los hijos hasta la tercera y cuarta generación de los que me odian, y tengo misericordia por mil generaciones con los que me aman y guardan mis mandamientos»`\n* 🤔 ¿Recordás los nombres de tus bisabuelos?\n* 👵 ¿Que sabés de ellos?\n* 🗣️ Hablá o preguntá sobre ellos."
   },
   {
     "type": "ordering",
     "image": "images/palestina-arabia-israel.png",      
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1,17):",
     "correctAnswer": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José ('padre' de Jesús)"],
-    "tip":"Mt 1,17 `El total de las generaciones es, por lo tanto: desde Abraham hasta David, catorce generaciones; desde David hasta el destierro en Babilonia, catorce generaciones; desde el destierro en Babilonia hasta Cristo, catorce generaciones.`",
-    "reflect": "* 🤔 En tu familia, ¿Acerca de cuantas generaciones te han contado?\n* 🗣️ Hablá o preguntá sobre tus antepasados."
+    "tip":"Mt 1,17 `El total de las generaciones es, por lo tanto: desde Abraham hasta David, catorce generaciones; desde David hasta el destierro en Babilonia, catorce generaciones; desde el destierro en Babilonia hasta Cristo, catorce generaciones.`\n\n* ¿Cuántas generaciones son en total?\n\nEse número representa el tiempo de un proceso de formación, e.g. la cantidad de semanas típicas de un embarazo, o la cantidad de años que reinaron cada uno de los primeros Reyes de Israel: Saúl, David y Salomón",
+    "reflect": "Conocer nuestros orígenes (físicos y espirituales) nos permite entender quienes somos y en consecuencia predecir y mejorar comportamientos repetitivos.\n* 🤔 En tu familia, ¿Acerca de cuantas generaciones te han contado?\n* 🗣️ Hablá o preguntá sobre tus antepasados.\n\n🇨🇳🇯🇵 ¿Sabías que los pueblos orientales (china y japón) tienen una fuerte espiritualidad orientada a sus antepasados?"
   },
   {
     "type": "multiple-choice",
@@ -31,7 +31,7 @@
       { "answerText": "Salvación", "isCorrect": false },
       { "answerText": "Piedad", "isCorrect": false }
     ],
-    "tip":"Gn 22,1 `Dios puso a prueba a Abraham. Le dijo: 'Toma a tu hijo, a tu único, al que amas* ve a la región de Moria y ofrécelo allí en holocausto'.`\n",
+    "tip":"Gn 22,1 `Dios puso a prueba a Abraham. Le dijo: 'Toma a tu hijo, a tu único, al que amas* ve a la región de Moria y ofrécelo allí en holocausto'.`\n\n* ¿Cómo recibis las palabras de Dios en Gn 22,1? ¿Incomprensiles? ¿Frustrantes? ¿Indignantes? ¿Sabias?",
     "reflect":"Como prueba de su fe, Dios le pide a Abraham lo más dificil que alguién puede pensar. Este hecho nos predispone a profundizar en el misterio pascual, donde Dios sacrifica a su único hijo en pos de la humanidad.\n* 🤔 ¿Quién te ha transmitido tu fé?\n* 🔥 ¿Has tenido que probar tu fe?"
   },
   {
@@ -47,8 +47,8 @@
       { "answerText": "Salmista", "isCorrect": true }
     ],
             "_comment": "",
-        "tip":"🐑 **Pastor**: de ovejas.\n\n🤴 **Príncipe**: Hijo de un Rey.\n\n👑 **Rey**: Úngido para gobernar en nombre de Dios como hijo suyo.\n\n🛐 **Sacerdote**: encargado de ofrecer sacrificios y oraciones a Dios para la salvación de los demás.\n\n🗣️ **Profeta**: Mensajero de la palabra y voluntad de Dios.\n\n🎶 **Salmista**: Escritor/Cantor de salmos/oraciones dedicadas a Dios y registradas en el libro de los Salmos de la Biblia.",
-         "reflect":"* 👑🐑 ¿Has tenido que arrear un rebaño (de animales, de niños, de personas)?, i.e. ser responsable de llevar un grupo de un origen a un destino (ɑ ➡️ ω)\n\n* 📝 🛐 🎶 ¿Le has escrito una oración/canción a Dios?"
+        "tip":"🐑 **Pastor**: de ovejas.\n\n🤴 **Príncipe**: Hijo de un Rey.\n\n👑 **Rey**: Úngido para gobernar en nombre de Dios como hijo suyo.\n\n🛐 **Sacerdote**: encargado de ofrecer sacrificios y oraciones a Dios para la salvación de los demás.\n\n🗣️ **Profeta**: Mensajero de la palabra y voluntad de Dios.\n\n🎶 **Salmista**: Escritor/Cantor de salmos/oraciones dedicadas a Dios y registradas en el libro de los Salmos de la Biblia.\n\n1Sm 16,10-13 `Jesé presentó a sus siete hijos.* Samuel preguntó*: «¿No hay más muchachos?». Le respondió: «Todavía queda el menor, que está pastoreando el rebaño». Samuel le dijo: «Manda a buscarlo»* Jesé* lo hizo venir. *Samuel cogió el cuerno de aceite y lo ungió.* Y el espíritu del Señor vino sobre David desde aquel día en adelante.`",
+         "reflect":"* 👑🐑 ¿Has tenido que arrear un rebaño (de animales, de niños, de personas)?, i.e. ser responsable de llevar un grupo de un origen a un destino (ɑ ➡️ ω)\n\n* 📝 🛐 🎶 ¿Le has escrito una oración/canción a Dios?\n\n* 📝 🛐 🎶 Elegí una oración/canción y rezala diariamente."
   },
   {
     "type": "matching",
@@ -106,7 +106,7 @@
       { "answerText": "🌬️ el soplo", "isCorrect": false},
       { "answerText": "🕯️ la luz", "isCorrect": false }
     ],
-    "tip":"Mt 3,10 `Yo los bautizo con agua para que se conviertan; pero aquel que viene detrás de mí es más poderoso que yo, y yo ni siquiera soy digno de quitarle las sandalias. El los bautizará en el ______ y en el ______.`"
+    "tip":"Mt 3,10 `\"Yo los bautizo con agua para que se conviertan; pero aquel que viene detrás de mí es más poderoso que yo, y yo ni siquiera soy digno de quitarle las sandalias. El los bautizará en el ______ y en el ______.\"`"
   }, 
    {
     "type": "multiple-choice",
@@ -118,7 +118,9 @@
       { "answerText": "🔥 una lengua de fuego", "isCorrect": false },
       { "answerText": "🕊️ una paloma", "isCorrect": true },
       { "answerText": "🌬️ un soplo", "isCorrect": false }
-    ]
+    ],
+    "tip":"Mt 3,17 `\"Y se oyó una voz del cielo que decía: 'Este es mi Hijo muuy querido, en quien tengo puesta toda mi predilección'.\"`",
+    "reflect":""    
   }
   ]
 }
