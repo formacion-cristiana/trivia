@@ -6,6 +6,7 @@
   "questions": [
   {
     "type": "ordering",
+    "image": "images/12tribus.png",    
     "questionText": "Ordenar temporalmente los primeros patriarcas (Mt 1,2):",
     "correctAnswer": ["Abraham", "Isaac", "Jacob (Israel)"],
     "tip": "Mt 1,2 `Abraham fue padre de Isaac; Isaac, padre de Jacob; Jacob, padre de Judá y de sus hermanos.`\n\n🔥 A partír de Pentecostés (nacimiento de la Iglesia), los hijos de Abraham ya no se transmiten por la carne sino por el Espíritu Santo. 🌬️",
@@ -13,6 +14,7 @@
   },
   {
     "type": "ordering",
+    "image": "images/palestina-arabia-israel.png",      
     "questionText": "Ordenar temporalmente la genealogía de Jesús separada cada 14 generaciones (Mt 1,17):",
     "correctAnswer": ["Abraham (padre de Isaac)", "David (padre de Salomón)", "Destierro a Babilonia", "José ('padre' de Jesús)"],
     "tip":"Mt 1,17 `El total de las generaciones es, por lo tanto: desde Abraham hasta David, catorce generaciones; desde David hasta el destierro en Babilonia, catorce generaciones; desde el destierro en Babilonia hasta Cristo, catorce generaciones.`",
@@ -20,6 +22,7 @@
   },
   {
     "type": "multiple-choice",
+    "image": "images/jerusalem-moria-abram.png",  
     "questionText": "Abraham es nuestro padre en la ...",
     "answerOptions": [
       { "answerText": "Fe", "isCorrect": true },
@@ -33,6 +36,7 @@
   },
   {
     "type": "multiple-choice",
+    "image": "images/primeros-reinos.png",      
     "questionText": "David fue ...",
     "answerOptions": [
       { "answerText": "Pastor", "isCorrect": true },
@@ -48,6 +52,7 @@
   },
   {
     "type": "matching",
+    "image": "images/palestina-arabia.png",      
     "questionText": "El Ángel del Señor se le apareció en sueños a José en tres ocasiones (Mt 1-2). Unir la ocación con las palabras del Ángel:",
       "columns": ["Ocasión", "Palabras del Ángel"],
     "correctAnswer": [
@@ -61,6 +66,7 @@
   },
   {
     "type": "ordering",
+    "image": "images/regiones-palestina-jesus.jpg",     
     "questionText": "Ordenar temporalmente los acontecimientos posteriores al nacimiento de Jesús (Mt 2):",
     "items": ["La visita de los magos", "La matanza de los inocentes", "El exilio a Egipto", "El regreso de Egipto"],
     "correctAnswer": ["La visita de los magos", "El exilio a Egipto", "La matanza de los inocentes", "El regreso de Egipto"],
@@ -70,6 +76,7 @@
  },
     {
     "type": "multiple-choice",
+    "image": "images/regiones-palestina-jesus.jpg", 
     "questionText": "En Mateo 3,2 Juan Bautista plocama:\n\n `\"_________ porque el Reino de los Cielos está cerca.\"`",
     "answerOptions": [
       { "answerText": "Conviértanse", "isCorrect": true },
@@ -78,9 +85,10 @@
       { "answerText": "Santifíquense", "isCorrect": false }
     ],
     "tip":"Después de 30 años del nacimiento de Jesús -en casi absoluto silencio sobre el Mesías- Juán comienza a anunciar su Reino.\n\nMt 3,1-2 `En aquel tiempo se presentó Juan el Bautista, proclamando en el desierto de Judea: «______, porque el Reino de los Cielos está cerca».`\n\nEstas mismas palabras dirá Jesús al comenzar su predicación (Mt 4,17).",
-    "reflect":"* 🗣️ ¿Quién te ha anunciado el Reino de los Cielos?\n\n* 🗣️ ¿Anunciás el Reino de los Cielos?"
+    "reflect":"Mt 13,31 `\"El Reino de los Cielos se parece a un grano de mostaza que un hombre sembró en su campo. En realidad, esta es la más pequeña de las semillas, pero cuando crece es la más grande de las hortalizas y se convierte en un arbusto, de tal manera que los pájaros del cielo van a cobijarse en sus ramas.\"`\n\n* 🗣️ ¿Quién te ha anunciado el Reino de los Cielos?\n\n* 🗣️ ¿Anunciás el Reino de los Cielos?\n\n* 🤔🌱 ¿Has pensado a la palabra de Dios como la semilla de mostaza?\n\n* 🤔🕊️ ¿Has pensado a los pájaros como símbolo de los ángeles?"
   },
   {
+    "image": "images/regiones-palestina-jesus.jpg", 
     "type": "true-false",
     "questionText": "El único profeta Judío que conoció personalmente a Jesús fue Juan Bautista",
     "correctAnswer": true,
@@ -89,6 +97,7 @@
   },
   {
     "type": "multiple-choice",
+    "image": "images/una-voz-grita-en-el-desierto.jpeg", 
     "questionText": "En Mateo 3,11 Juan Bautista le cuenta a los fariseos y saduceos que el que viene detrás de el los bautizará con:",
     "answerOptions": [
       { "answerText": "💦 el agua", "isCorrect": false },
@@ -101,6 +110,7 @@
   }, 
    {
     "type": "multiple-choice",
+    "image": "images/pentecostes.jpeg", 
     "questionText": "Mateo 3,16 cuenta que apenas fue bautizado, Jesús vio al Espíritu de Dios dirigirse hacia el, descendiendo como:",
     "answerOptions": [
       { "answerText": "🕯️ una luz", "isCorrect": false },
