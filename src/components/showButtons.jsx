@@ -66,7 +66,7 @@ export default function ShowButtons({ tip, reflect }) {
             onClick={() => setShowTip(!showTip)}
             style={tipButtonStyle(showTip)}
           >
-            {showTip ? "▼" : "▶"} Info
+            {showTip ? "▼" : "▶"} 📖 Info
           </button>
         )}
         {reflect && (
@@ -74,7 +74,7 @@ export default function ShowButtons({ tip, reflect }) {
             onClick={() => setShowReflect(!showReflect)}
             style={reflectButtonStyle(showReflect)}
           >
-            {showReflect ? "▼" : "▶"} Reflexión
+            {showReflect ? "▼" : "▶"} 🤔 Reflexión
             
           </button>
         )}
