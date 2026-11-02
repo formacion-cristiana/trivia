@@ -58,6 +58,7 @@ export default function Landing() {
   }}
 >
               {set.title.toUpperCase()}
+              <p>{set.description}</p>
             </summary>
 
             <ul style={{ paddingLeft: "0rem" }}>

@@ -1,5 +1,5 @@
 {
-  "id": "C09",
+  "id": "G03",
   "title": "EL PECADO ORIGINAL\n\n(Gn 3)",
   "date":"",
   "comment":"La maldición que devino en gracia",
@@ -103,7 +103,7 @@
       "questionText": "Después de un bautismo, el bautizado es un santo, i.e. si muere podrá ver a Dios.",
       "correctAnswer": true,
         "tip":"(CIC 978) El santo Bautismo que nos purifica es tan pleno y tan completo el perdón que recibimos, que no nos queda absolutamenta nada por borrar.\n\n(CIC 1028) \n\n",
-      "reflect":"¿Realmente crees en que la gracia de Dios borra toda culpa?\n\n¿Aprovechás el sacramento de la reconciliación?"
+      "reflect":"* ¿Realmente crees en que la gracia de Dios borra toda culpa?\n\n* ¿Aprovechás el sacramento de la reconciliación?"
     },
     {
     "type": "multiple-choice",
@@ -125,7 +125,7 @@
       "questionText": "La redención de Cristo, luego de la parusía, lleva al Hombre al mismo estado original del Edén.",
       "correctAnswer": false,
         "tip":"Dios es evolución, de manera que permite que los males resulten en un mayor bien.\n\nRm 5,20 `Donde abundó el pecado, sobreabundó la gracia.`\n\n (CIC 412) Ante la pregunta ¿por qué Dios no impidió que el primer hombre pecara? San León Magno responde: 'La gracia inefable de Cristo nos ha dado bienes mejores que los que nos quitó la envidia del demonio' (Sermones, 73,4: PL 54, 396)",
-      "reflect":"¿Has tenido una experiencia desagradable/dolorosa que te ha fortalecido o ayudado a madurar?"
+      "reflect":"* ¿Has tenido una experiencia desagradable/dolorosa que te ha fortalecido o ayudado a madurar?"
     }
     ]
  }

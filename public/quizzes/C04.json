@@ -1,12 +1,12 @@
 {
   "id": "C04",
-  "title": "[II] Poder-Placer-Poseer",
+  "title": "[II] Poder-Placer-Poseer\n\n(Mt 5-6)",
     "date":"",
       "comment":"Necesidades del Hombre, ¿satisfechas por Dios o el dinero?",
   "questions": [
           {
     "type": "true-false",
-    "image": "images/dios-y-dinero.jpg", 
+    "image": "images/dios-y-dinero.jpeg", 
     "questionText": "Jesús dijo:\n\n`No se puede servir a Dios y al Dinero`",
     "correctAnswer": true,
         "_comment": "",
@@ -14,7 +14,7 @@
          "reflect":"¿Cómo es tu relación con el dinero?\n\n¿Por qué te parece que Jesús compara a Dios con el dinero?"
   },  {
     "type": "true-false",
-        "image": "images/dios-y-dinero.jpg", 
+        "image": "images/dios-y-dinero.jpeg", 
     "questionText": "Tanto Dios como el dinero pueden satisfacer las necesidades que el Hombre tiene de `PODER`, `PLACER`, y `POSEER`.",
     "correctAnswer": true,
         "_comment": "",

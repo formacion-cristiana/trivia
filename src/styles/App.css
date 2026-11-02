@@ -107,7 +107,7 @@ button:hover {
     border-radius: 10px;
     border: none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
-    text-transform: uppercase;
+/*    text-transform: uppercase;*/
     list-style-position: inside;
   }
 

@@ -1,0 +1,74 @@
+{
+  "id": "G01",
+  "title": "EN EL PRINCIPIO DIOS CREÓ\n\n(Gn 1 & Jn 1)",
+  "date":"",
+  "comment":"",
+  "questions": [
+    {
+      "type": "true-false",
+      "questionText": "El concepto de un único Dios creador fue introducido por los Judíos.",
+      "correctAnswer": true,
+      "tip":"Gn 1,1 `En el principio Dios creó`\n\n",
+      "reflect":""
+    },
+    {
+      "type": "true-false",
+      "questionText": "En el instante en que Dios crea el universo se produce un cambio en Dios.",
+      "correctAnswer": false,
+      "tip":"Gn 1,1 `En el principio Dios creó`\n\nSanto Tomás de Aquino nos enseña que Dios es acto puro y potencia nula.\n\nSal 102,26-28 `al principio cimentaste la tierra, y el cielo es obra de tus manos. Ellos perecerán, tú permaneces; se gastarán como la ropa, serán como un vestido que se muda. Tú, en cambio, eres siempre el mismo, tus años no se acabarán.`",
+      "reflect":""
+    },
+  {
+    "type": "multiple-choice",
+    "questionText": "¿Cuales facultades humanas se ven efectivas solo en el hecho de que un ÚNICO Dios es CREADOR?",
+    "answerOptions": [
+      { "answerText": "Capacidad de amar y sacrificar", "isCorrect": false },
+      { "answerText": "Capacidad de elegir y obrar", "isCorrect": true },
+      { "answerText": "Capacidad de percibir y sentir", "isCorrect": false},
+      { "answerText": "Capacidad de pensar y hablar", "isCorrect": false }
+    ],
+    "tip":"Gn 1,1 `En el principio Dios creó`\n\nJn 1,3 `Todas las cosas fueron hechas por medio de 'Dios' y sin 'Dios' no se hizo nada de todo lo que existe.`\n\nConsiderar solo el hecho de que existe un Dios creador excluye la noción de una creación bella, ordenada, con sentido o la existencia de seres inteligentes con libre alberio; i.e. Dios podría crear un mamarracho.",
+    "reflect":"Si Dios elige crear, implica que la creación es contingente, i.e. podría no haber existido.\n\n* ¿Qué sensación te genera saberte innecesario?"
+  }, 
+
+      {
+    "type": "multiple-choice",
+    "questionText": "¿Qué existía 'antes' del principio?",
+    "answerOptions": [
+      { "answerText": "Dios", "isCorrect": true },
+      { "answerText": "Dios y los ángeles", "isCorrect": false },
+      { "answerText": "Dios y el caldo primitivo", "isCorrect": false},
+      { "answerText": "Dios y el espacio", "isCorrect": false }
+    ],
+    "tip":"Gn 1,1 `En el principio Dios creó`.\n\nEl hecho de que exista un principio de la creación implica que Dios creo de la nada, i.e. 'antes' de la creación no había creación, solo creador.\n\nJn 1,3 `Todas las cosas fueron hechas por medio de 'Dios' y sin 'Dios' no se hizo nada de todo lo que existe.`\n\n",
+    "reflect":""
+  }, 
+          {
+    "type": "multiple-choice",
+    "questionText": "Jn 1,1 `En el principio existía _______, y ______ estaba junto a Dios, y _______ era Dios`\n\n¿Cuales términos corresponden al prólogo del Evangelio de San Juan?",
+    "answerOptions": [
+      { "answerText": "La Creación (El Creado)", "isCorrect": false},
+      { "answerText": "El Desorden (El Caos)", "isCorrect": false },
+      { "answerText": "La Energía (La Fuente)", "isCorrect": false },
+      { "answerText": "La Palabra (El Logos)", "isCorrect": true },
+      { "answerText": "El Universo (El Cosmos)", "isCorrect": false}
+
+    ],
+    "tip":"",
+    "reflect":""
+  },
+  {
+    "type": "multiple-choice",
+    "questionText": "¿Cuáles letras griegas simbolizan el principio?",
+    "answerOptions": [
+      { "answerText": "A", "isCorrect": true },
+      { "answerText": "⍺", "isCorrect": true },
+      { "answerText": "𝝉", "isCorrect": false},      
+      { "answerText": "⍵", "isCorrect": false},
+      { "answerText": "Ω", "isCorrect": false }
+    ],
+    "tip":"El comienzo del Génesis y del Apocalipsis:\n\nGn 1,1 `En el principio Dios creó el cielo y la tierra.`\n\nAp 1,8 `Dice el Señor Dios: «Yo soy el Alfa y la Omega, el que es, el que era y ha de venir, el todopoderoso».`\n\n",
+    "reflect":"Juan escribe en los últimos capítulos del Apocalipsis:\n\nAp 21,6 `Y me dijo: «Hecho está. Yo soy el Alfa y la Omega, el principio y el fin. Al que tenga sed yo le daré de la fuente del agua de la vida gratuitamente».`\n\nAp 22,13 `Y me dijo: «...Yo soy el Alfa y la Omega, el principio y el fin, el primero y el último».`\n\n* ¿Quién le habla a Juan?"
+  }
+    ]
+ }
