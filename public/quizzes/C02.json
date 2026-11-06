@@ -33,22 +33,7 @@
         "tip":"Gn 12,7-8 `El Señor se apareció a Abrán y le dijo: «A tu descendencia daré esta tierra». Él construyó allí un altar en honor del Señor que se le había aparecido. Desde allí continuó hacia las montañas, al este de Betel, y plantó allí su tienda.`\n\nEl altar cerca de Betel es el primer altar \n\nGn 13,14-17 `El Señor dijo a Abrán*: «Alza tus ojos y mira desde el lugar en donde estás hacia el norte, el mediodía, el levante y el poniente. Toda la tierra que ves te la daré a ti y a tus descendientes para siempre. Haré a tus descendientes como el polvo de la tierra: el que pueda contar el polvo de la tierra podrá contar a tus descendientes. Levántate, recorre el país a lo largo y a lo ancho, pues te lo voy a dar»`.\n\nDt 32,8 `Cuando el Altísimo dio una herencia a cada nación, cuando distribuyó a los hombres, él fijó las fronteras de los pueblos según el número de los hijos de Dios. Pero la parte del Señor es su pueblo. La porción de su herencia es Jacob. Lo encontró en una tierra desierta. En la soledad rugiente de la estepa: lo rodeó y lo cuidó. Lo protegió como a la pupila de sus ojos.`",
         "reflect":"Dios le promete la tierra a los descendientes de Abraham.\n\n* ¿Reconocés alguna herencia/bendición recibida gracias a tus antepasados?"
     },
-    {
-    "type": "multiple-choice",
-    "questionText": "Las 12 tribus de Israel llevan el nombre de 10 hijos y 2 nietos de:",
-      "image": "images/12tribus.png",
-      "answerOptions": [
-      { "answerText": "Abraham", "isCorrect": false },
-      { "answerText": "Israel", "isCorrect": true },
-      { "answerText": "David", "isCorrect": false },
-      { "answerText": "Salomón", "isCorrect": false },
-      { "answerText": "Jesús", "isCorrect": false }
-    ],
-        "_comment": "",
-        "tip":"Dios le cambió el nombre luego de un enfrentamiento con un Ángel: Gn 32,29 `El (ángel) añadió: «En adelante no te llamarás _______, sino _______, porque has luchado con Dios y con los hombres, y has vencido».`\n\n\n\nLos dos nietos son hijos de José: Efraím y Manasés.",
-         "reflect":"Levi también fue hijo, pero no recibió tierra en herencia por que a su descendencia se le encomendó el ministerio sacerdotal.\n\n* ¿Qué sentido le encontrás?\n* ¿Cómo relacionas esto con la vida sacerdotal de hoy en día?"
-  },
-        {
+  {
     "type": "multiple-choice",
     "questionText": "Completar el versículo\n\nGn 22,1 `Dios puso a prueba a _________. Le dijo: Toma a tu hijo, a tu único, al que amas... ve a la región de Moria y ofrécelo allí en holocausto'.`\n\n Unos mil años más tarde, en el monte Moria se construirá el Templo de Israel.",
     "image": "images/jerusalem-moria.png",
@@ -63,7 +48,7 @@
         "tip":"",
          "reflect":""
   },
-          {
+  {
     "type": "multiple-choice",
     "questionText": "Completar el versículo en donde justo antes del sacrificio el Ángel de Dios dice a Abraham:\n\nGn 22,12 `'No le hagas nada que ahora sé que tienes _________ de Dios, ya que no me has negado tu único hijo.'`",
     "image": "images/jerusalem-moria-abram.png",
@@ -79,7 +64,23 @@
         "_comment": "",
         "tip":"",
          "reflect":""
-  },          {
+  },          
+    {
+    "type": "multiple-choice",
+    "questionText": "Las 12 tribus de Israel llevan el nombre de 10 hijos y 2 nietos de:",
+      "image": "images/12tribus.png",
+      "answerOptions": [
+      { "answerText": "Abraham", "isCorrect": false },
+      { "answerText": "Israel", "isCorrect": true },
+      { "answerText": "David", "isCorrect": false },
+      { "answerText": "Salomón", "isCorrect": false },
+      { "answerText": "Jesús", "isCorrect": false }
+    ],
+        "_comment": "",
+        "tip":"Dios le cambió el nombre luego de un enfrentamiento con un Ángel: Gn 32,29 `El (ángel) añadió: «En adelante no te llamarás _______, sino _______, porque has luchado con Dios y con los hombres, y has vencido».`\n\n\n\nLos dos nietos son hijos de José: Efraím y Manasés.",
+         "reflect":"Levi también fue hijo, pero no recibió tierra en herencia por que a su descendencia se le encomendó el ministerio sacerdotal.\n\n* ¿Qué sentido le encontrás?\n* ¿Cómo relacionas esto con la vida sacerdotal de hoy en día?"
+  },
+  {
     "type": "multiple-choice",
     "image": "images/jerusalem-moria-abram.png",
     "questionText": "Por su gran devoción a Dios, ¿Quién comienza con los preparativos para construir el primer Templo de Jerusalén? (será construido por su hijo en la región de Moria)",

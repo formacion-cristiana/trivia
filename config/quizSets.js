@@ -13,7 +13,7 @@ export const quizSets = [
     id: "mateo",
     title: "Origen de Jesucristo y comienzo de su vida pública",
     description: "Genealogía & Mateo (1-9)",
-    quizzes: ["C01", "C02", "C03","C04","C05","C06","C07","C08","C10"],
+    quizzes: ["C01", "C02","C05","C06","C07", "C03","C04","C08","C10"],
     emoji: "📖",
     whatsappNumber : "393500251975"
   },
