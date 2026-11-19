@@ -45,8 +45,8 @@
       { "answerText": "Jesús", "isCorrect": false }
     ],
         "_comment": "",
-        "tip":"",
-         "reflect":""
+        "tip":"Esto es una prueba de fe. Dios le pide ofrecer en holocausto al mismo hijo que le había regalado. No parece tener sentido. Decimos que es la prueba de fe más grande que se pueda pedir. Incluso mayor que dar la propia vida como testimonio de fe (futuros mártires cristianos).\n\nLuego será llamado padre en la fe de todos los cristianos ya que por la fe en Jesucristo nos adherimos a ",
+         "reflect":"* 🤔 ¿Quién te ha transmitido tu fe?\n* 🔥 ¿Has tenido que probar tu fe?\n\n* En Gn 22,1 ¿cuál oficio se está pidiendo: sacerdote, profeta o rey?\n\n"
   },
   {
     "type": "multiple-choice",
@@ -131,7 +131,7 @@
         "questionText": "Unir a cada persona con el principal Don divino (regalo de Dios) que representa:",
           "columns": ["Persona", "Don"],
         "correctAnswer": [
-          ["Abraham", "Fé"],
+          ["Abraham", "Fe"],
           ["Israel", "Fortaleza"],
           ["David", "Piedad"],
           ["Salomón", "Sabiduría"],
@@ -139,14 +139,14 @@
         ],
         "_comment": "",
         "tip":"**Abraham** es nuestro padre en la '________'.\n\n**Jacob** se caracteriza por una vida llena de dificultades. Dios lo bendijo con este don para poder afrontarlas.\n\n**David** fue un enamorado de Dios, lo que resultó en la escrituras de los Salmos.\n\nDios le concedió un deseo a **Salomón**. Dios lo felicitó por su elección.\n\n**Jesús** hizo muchas cosas en su vida terrena, pero tenía un objetivo principal.",
-         "reflect":"* ¿Cuál don estás necesitando hoy?\n\nPodés leer la historia de la persona asociada a ese don. (Si necesitas salud estas necesitando 'salvación', i.e. vida.)\n\nReza o pedí a otros que recen por vos para aumentar tu fé, fortaleza, piedad, sabiduría o salud (no solo una vez sino con constancia)."
+         "reflect":"* ¿Cuál don estás necesitando hoy?\n\nPodés leer la historia de la persona asociada a ese don. (Si necesitas salud estas necesitando 'salvación', i.e. vida.)\n\nReza o pedí a otros que recen por vos para aumentar tu fe, fortaleza, piedad, sabiduría o salud (no solo una vez sino con constancia)."
       },
                     {
         "type": "matching",
         "questionText": "Unir a cada Don divino (regalo de Dios) con una cualidad que representa:",
           "columns": ["Don", "Cualidad"],
         "correctAnswer": [
-          ["Fé", "Confianza"],
+          ["Fe", "Confianza"],
           ["Fortaleza", "Perseverancia"],
           ["Piedad", "Devoción"],
           ["Sabiduría", "Sabor"],
